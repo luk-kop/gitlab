@@ -1,4 +1,4 @@
-# GitLab
+# gitlab
 
 # Requirements
 - Create `.env` file with following content:
